@@ -1,18 +1,27 @@
-# GitHub Login Integration for Cursor Editor
+# Weather App
 
-## Description
-This project demonstrates how to implement GitHub authentication in the Cursor editor, allowing users to seamlessly connect their GitHub accounts for enhanced development workflow.
+This is a Flutter-based weather application that fetches real-time weather data using an API. The app provides information such as the current temperature, weather conditions, wind speed, humidity, atmospheric pressure, and sea level. Users can toggle the auto-location feature to get weather data for their current location or manually select a location.
 
 ## Features
-- GitHub OAuth authentication
-- Repository access management
-- Seamless integration with Cursor editor
-- Secure token handling
+- Displays real-time weather information.
+- Provides data on:
+  - Current temperature
+  - Weather condition (e.g., Clouds, Clear, Rain)
+  - Wind speed
+  - Humidity
+  - Atmospheric pressure
+  - Sea level
+- Auto-location toggle to fetch weather for the user's current location.
+- Manual location selection.
 
-## Prerequisites
-- Cursor Editor installed
-- GitHub account
-- Internet connection
+## Technologies Used
+- **Flutter**: Frontend framework for building the app.
+- **API Integration**: Fetches real-time weather data using a weather API.
+
+## Screenshot
+![Weather App Screenshot](screenshot/1.jpeg)
 
 ## Installation
-1. Clone this repository
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sagar11cc/WEATHER_APP_API.git
