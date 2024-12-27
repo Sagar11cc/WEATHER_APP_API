@@ -19,7 +19,7 @@ This is a Flutter-based weather application that fetches real-time weather data 
 - **API Integration**: Fetches real-time weather data using a weather API.
 
 ## Screenshot
-![Weather App Screenshot](screenshot/1.jpeg)
+<img src="screenshot/1.jpeg" width="300"/>
 
 ## Installation
 1. Clone the repository:
