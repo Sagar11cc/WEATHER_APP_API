@@ -8,7 +8,7 @@ class WeatherServices {
     try {
       final response = await http.get(
         Uri.parse(
-            "https://api.openweathermap.org/data/2.5/weather?lat=28.5175&lon=81.7787&appid=4fb246bf8503a1dcf6633a4af25e0fb8"),
+            "https://api.openweathermap.org/data/2.5/weather?lat=28.5175&lon=81.7787&appid=Your_API_KEY"),
       );
 
       if (response.statusCode == 200) {
