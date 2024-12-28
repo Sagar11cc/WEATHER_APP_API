@@ -1,5 +1,5 @@
 # Weather App
-
+in nepali
 This is a Flutter-based weather application that fetches real-time weather data using an API. The app provides information such as the current temperature, weather conditions, wind speed, humidity, atmospheric pressure, and sea level. Users can toggle the auto-location feature to get weather data for their current location or manually select a location.
 
 ## Features
@@ -11,7 +11,7 @@ This is a Flutter-based weather application that fetches real-time weather data 
   - Humidity
   - Atmospheric pressure
   - Sea level
-- Auto-location toggle to fetch weather for the user's current location.
+- Auto-location to fetch weather for the user's current location.
 - Manual location selection.
 
 ## Technologies Used
